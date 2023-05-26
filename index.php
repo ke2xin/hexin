@@ -121,9 +121,6 @@
         });
     </script>
     <!--轮播图end-->
-    <div class="pre" style="position: absolute;bottom: -76px;z-index:1;width: 100%;height: 200px;background: #fff;">
-
-    </div>
 </div>
 <div style="display: flex;">
     <div style="flex: 1;font-size: 12px;display: flex;flex-direction: column;align-items: center;letter-spacing: 2px;">
